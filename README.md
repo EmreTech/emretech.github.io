@@ -1,3 +1,5 @@
 # emretech.github.io
 
-My website! Coming soon
+My own personal website!
+
+[Link here](emretech.github.io)
