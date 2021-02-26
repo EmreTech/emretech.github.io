@@ -2,4 +2,4 @@
 
 My own personal website!
 
-[Link here](emretech.github.io)
+[Link here](https://emretech.github.io)
